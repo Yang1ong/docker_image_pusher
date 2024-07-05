@@ -1,1 +1,3 @@
 rocker/rstudio:latest
+rocker/rstudio:4.2
+
