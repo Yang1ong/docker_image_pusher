@@ -1,1 +1,1 @@
-rocker/rstudio
+rocker/rstudio:latest
