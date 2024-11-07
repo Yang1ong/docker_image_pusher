@@ -3,4 +3,4 @@ rocker/rstudio:4.2
 rocker/rstudio:4.4
 gitea/gitea:latest
 rapidsai/rapidsai
-docker pull rapidsai/notebooks:23.12
+docker pull rapidsai/notebooks:23.12-cuda11.8-py3.10
